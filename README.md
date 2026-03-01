@@ -46,7 +46,6 @@ Em um ecossistema com gigantes como o Discord.js, por que criar uma nova bibliot
 *   **⚡️ Leve e Rápida:** Arquitetura focada em não carregar funcionalidades desnecessárias.
 *   **🔒 Tipagem Forte:** Totalmente escrita em TypeScript para um desenvolvimento mais seguro e produtivo.
 *   **🌐 Abstração Completa:** Cobertura tanto da API REST quanto do Gateway do Discord.
-*   **🧩 Estrutura Familiar:** Interface inspirada em padrões de mercado (Baileys) com um emissor de eventos central (`bot.ev`).
 
 ## 🚀 Instalação
 

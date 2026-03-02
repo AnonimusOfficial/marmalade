@@ -133,4 +133,4 @@ Distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` no repositório pa
 <div align="center">
   Forjado por Anonimus Ofc
 </div>
-```
+

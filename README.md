@@ -1,67 +1,69 @@
+
+```markdown
 <div align="center">
 
-# 🍊 Marmalade.js
+# ✠ Marmalade.js ✠
 
-**Uma biblioteca saborosa e 100% brasileira para a API do Discord, feita do zero.**   
-
-*Idealizada e desenvolvida por Anonimus Ofc.*
+**Uma biblioteca forjada em Node.js para a API do Discord.** <br />
+*Desenvolvida por Anonimus Ofc.*
 
 </div>
 
 <div align="center">
 
-[![Versão](https://img.shields.io/npm/v/@anonimusofficial/marmalade?style=for-the-badge&color=E21818&labelColor=121212 )](https://www.npmjs.com/package/@anonimusofficial/marmalade )
-[![Licença](https://img.shields.io/github/license/anonimusofficial/marmalade.js?style=for-the-badge&color=820303&labelColor=121212 )](https://github.com/anonimusofficial/marmalade.js/blob/main/LICENSE )
-[![Feito no Brasil](https://img.shields.io/badge/Feito%20no-Brasil-009C3B?style=for-the-badge&labelColor=121212&logo=brazil )](https://github.com/anonimusofficial/marmalade.js )
-[![Comunidade](https://img.shields.io/discord/YOUR_SERVER_ID?style=for-the-badge&logo=discord&logoColor=white&label=Comunidade&color=5800FF&labelColor=121212 )](https://discord.gg/YOUR_INVITE_CODE )
+[![Versão](https://img.shields.io/npm/v/@anonimusofficial/marmalade?style=for-the-badge&color=9B0000&labelColor=000000)](https://www.npmjs.com/package/@anonimusofficial/marmalade)
+[![Licença](https://img.shields.io/github/license/anonimusofficial/marmalade.js?style=for-the-badge&color=4C0070&labelColor=000000)](https://github.com/anonimusofficial/marmalade.js/blob/main/LICENSE)
+[![Comunidade](https://img.shields.io/discord/YOUR_SERVER_ID?style=for-the-badge&logo=discord&logoColor=white&label=Santuário&color=7E00B3&labelColor=000000)](https://discord.gg/YOUR_INVITE_CODE)
 
 </div>
 
-  
-
+<br>
 
 ---
-<p align="center">· · ── ·· ─── ·· ── ·· 🔥 ·· ── ·· ─── ·· ── ··</p>
+<p align="center">† ·· ─── ·· ── · 🦇 · ── ·· ─── ·· †</p>
 
-### 🍊 Boas-vindas à Cozinha da Marmalade!
+### 🔮 O Grimório
 
-A palavra "marmalade" pode até ser inglesa, mas a origem dela é a nossa "marmelada". Inspirada nessa mistura cultural, a **Marmalade.js** é uma biblioteca 100% brasileira para criar bots de Discord com um sabor diferente.
+Inspirada na complexidade de protocolos e na busca por uma sintaxe mais direta, a **Marmalade.js** é uma biblioteca que oferece uma nova forma de interagir com a API do Discord.
 
-Feita artesanalmente, nossa receita mistura os melhores ingredientes da API do Discord (REST e Gateway) em uma camada de abstração deliciosa e fácil de usar. Chega de código sem graça! A gente acredita que programar deve ser uma experiência criativa e divertida.
+Forjada do zero, nossa estrutura combina os elementos do Gateway e da API REST em uma camada de abstração poderosa e intuitiva. Para aqueles que acreditam que programar é uma forma de arte.
 
-  
+<br>
 
+### 📜 Capítulos
 
-<details>
-<summary><strong>🤔 Por que Marmalade.js?</strong></summary>
-  
+*   [O Propósito](#-o-propósito)
+*   [Artefatos](#-artefatos)
+*   [O Ritual de Instalação](#-o-ritual-de-instalação)
+*   [Invocação de Exemplo](#-invocação-de-exemplo)
+*   [Convocação para Contribuir](#-convocação-para-contribuir)
+*   [O Pacto (Licença)](#-o-pacto-licença)
 
+<p align="center">† ·· ─── ·· ── · 🦇 · ── ·· ─── ·· †</p>
 
-Em um ecossistema com gigantes como o Discord.js, por que criar uma nova biblioteca?
+### 🕯️ O Propósito
 
-*   **🎓 Aprendizado:** Este projeto nasceu como uma jornada de aprendizado profundo sobre a API do Discord, WebSockets e o design de bibliotecas.
-*   **✨ Simplicidade:** Buscamos uma sintaxe mais limpa e uma abordagem direta, inspirada na fluidez de bibliotecas como o Baileys.
-*   **🚀 Performance:** Sendo leve e modular, a Marmalade.js visa entregar a melhor performance possível, carregando apenas o que for usar.
-*   **🇧🇷 Identidade Brasileira:** Queremos criar uma ferramenta com a cara da nossa comunidade de desenvolvedores.
+Em um mundo com ferramentas já estabelecidas, por que conjurar uma nova?
 
-</details>
+*   **Alquimia do Conhecimento:** Este projeto é uma jornada de aprendizado profundo sobre a API do Discord, WebSockets e o design de bibliotecas.
+*   **Essência da Simplicidade:** Buscamos uma sintaxe mais limpa e uma abordagem direta para tarefas comuns.
+*   **Poder e Performance:** Sendo leve e modular, a Marmalade.js visa entregar a melhor performance, utilizando apenas os recursos necessários.
+*   **Identidade Própria:** Criar uma ferramenta com uma assinatura única.
 
-  
+<br>
 
+### 🦇 Artefatos
 
-### ✨ Recursos Principais
+*   **Forjada do Zero:** Arquitetura própria, sem dependências de outras bibliotecas de Discord.
+*   **Leve e Rápida:** Focada em não carregar funcionalidades desnecessárias.
+*   **Poder Arcano (Tipagem):** Escrita em TypeScript para um desenvolvimento mais seguro.
+*   **Domínio Completo:** Cobertura tanto da API REST quanto do Gateway.
 
-*   **Feita no Brasil:** Pensada e criada por e para a comunidade BR.
-*   **Leve e Rápida:** Arquitetura focada em não carregar funcionalidades desnecessárias.
-*   **Tipagem Forte:** Totalmente escrita em TypeScript para um desenvolvimento mais seguro.
-*   **Abstração Completa:** Cobertura tanto da API REST quanto do Gateway do Discord.
+<br>
 
-  
+### ➕ O Ritual de Instalação
 
-
-### 🚀 Instalação
-
-Para adicionar a Marmalade.js ao seu projeto, utilize seu gerenciador de pacotes preferido:
+Para obter a Marmalade.js, use seu gerenciador de pacotes preferido:
 
 ```bash
 # Com NPM
@@ -72,45 +74,65 @@ yarn add @anonimusofficial/marmalade
 
 # Com PNPM
 pnpm add @anonimusofficial/marmalade
-💡 Exemplo de Uso
-O processo é simples: crie o cliente, ouça os eventos e envie suas mensagens.
-JavaScript
-// 1. Importe a função de criação da sua biblioteca
+```
+
+<br>
+
+### ✒️ Invocação de Exemplo
+
+O processo é direto: crie o cliente, ouça os eventos e execute as ações.
+
+```javascript
+// 1. Importe a função de criação da biblioteca
 const { createMarmalade } = require('@anonimusofficial/marmalade');
 
-// 2. Crie a instância do bot, passando o token e intents
-//    Intents são as permissões que seu bot solicita ao Discord.
+// 2. Crie a instância do bot, passando o token e as permissões (intents)
 const bot = createMarmalade({
   token: 'SEU_TOKEN_AQUI',
   intents: 513 // Permissão para ver servidores e ler mensagens
 });
 
-// 3. Registre os eventos que você quer ouvir
+// 3. Registre os eventos que deseja observar
 bot.on('boot', (readyData) => {
-  console.log(`Marmalade.js no ar! Logado como: ${readyData.user.username}`);
+  console.log(`O ritual foi concluído. Logado como: ${readyData.user.username}`);
 });
 
 bot.on('message', async (message) => {
-  // Ignora mensagens de outros bots para evitar loops
+  // Ignora ecos de outros bots
   if (message.author.bot) return;
 
-  // Responde ao comando !ping
+  // Responde ao chamado '!ping'
   if (message.content === '!ping') {
-    await bot.send(message.channel_id, 'Pong! 🏓');
+    await bot.send(message.channel_id, 'Pong. 🦇');
   }
 });
 
-// 4. Inicie a conexão com o Discord
+// 4. Inicie a conexão
 bot.start();
-<details> <summary><strong>🤝 Como Contribuir</strong></summary>
-Este é um projeto de código aberto e toda ajuda é bem-vinda. Se você tem ideias, sugestões ou quer reportar um bug, sinta-se à vontade para:
-Abrir uma Issue para discutir a mudança.
-Fazer um Fork do repositório.
-Criar uma nova Branch (git checkout -b feat/sua-feature).
-Fazer o Commit das suas mudanças (git commit -m 'feat: Adiciona sua feature').
-Enviar o Push para a sua Branch (git push origin feat/sua-feature).
-Abrir um Pull Request.
-</details>
-📝 Licença
-Distribuído sob a licença MIT. Veja o arquivo LICENSE no repositório para mais detalhes.
-<p align="center">· · ── ·· ─── ·· ── ·· 🔥 ·· ── ·· ─── ·· ── ··</p> <div align="center"> Feito com ❤️‍🔥 por Anonimus Ofc no Brasil </div> ```
+```
+
+<br>
+
+### ♆ Convocação para Contribuir
+
+Este é um projeto de código aberto. Toda ajuda é bem-vinda. Se você tem ideias, sugestões ou quer reportar um bug, sinta-se à vontade para:
+
+1.  Abrir uma **Issue** para discutir a mudança.
+2.  Fazer um **Fork** do repositório.
+3.  Criar uma nova **Branch** (`git checkout -b feat/sua-feature`).
+4.  Fazer o **Commit** de suas mudanças (`git commit -m 'feat: Adiciona sua feature'`).
+5.  Enviar o **Push** para a sua Branch (`git push origin feat/sua-feature`).
+6.  Abrir um **Pull Request**.
+
+<br>
+
+### 📜 O Pacto (Licença)
+
+Distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` no repositório para mais detalhes.
+
+<p align="center">† ·· ─── ·· ── · 🦇 · ── ·· ─── ·· †</p>
+
+<div align="center">
+  Forjado por Anonimus Ofc
+</div>
+```
